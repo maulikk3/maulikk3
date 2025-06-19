@@ -1,6 +1,8 @@
-## Hi there 👋
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+# 👋 Hi there, I'm Maulik Kumar
+
+🎓 B.Tech Computer Science & Engineering student at **Punjabi University, Patiala**  
+💻 Passionate about **Python Development**, **Artificial Intelligence**, and **Cybersecurity**  
+🔐 Building smart and secure tech for the future
 
 
 ## 🌐 Socials:
