@@ -10,6 +10,8 @@
 - Ethical Hacking & Penetration Testing  
 - Secure Coding Best Practices  
 - AI Model Optimization & Deployment
+- 
+![Visitor Count](https://visitcount.itsvg.in/api?id=maulikk3.maulikk3t&icon=0&color=0)
 
 
 ## 🌐 Socials:
