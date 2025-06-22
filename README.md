@@ -11,7 +11,7 @@
 - Secure Coding Best Practices  
 - AI Model Optimization & Deployment
 - 
-![Visitor Count](https://visitcount.itsvg.in/api?id=maulikk3.maulikk3t&icon=0&color=0)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maulikk3&label=Profile%20views&color=0e75b6&style=flat" alt="maulikk3" /> </p>
 
 
 ## 🌐 Socials:
